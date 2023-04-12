@@ -1,8 +1,8 @@
 # 📌Introduction
 
-- A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
-
-- It is implemented in **“PYTHON Programming Language”** in which implementation is very easy. For every sort of work there is module present in python which makes the thing very easy and effective to do. It is user friendly and easy to understandable for beginner.
+-A digital assistant, additionally known as an AI assistant or virtual assistant, is an utility application that is familiar with herbal language voice instructions and completes responsibilities for the person. The complete idea primarily based totally on how are we able to make our lifestyles simpler or how are we able to automate the matters via way of means of simply the use of our voice command. When the undertaking is being completed then to begin with it greets the person as according to the time. After that it simply pay attention your command in shape of voice and simply that that issue in step with your command.
+  
+-It is applied in “PYTHON Programming Language” wherein implementation could be very smooth. For each form of paintings there may be module found in python which makes the issue very smooth and powerful to do. It is person pleasant and smooth to comprehensible for beginner.
 
 # 📌Moules/Libraries Used
 

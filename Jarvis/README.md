@@ -1,6 +1,6 @@
 # 📌Introduction
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Cover_pic.jpg" alt="">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fmarcusfongthebest%2Fart%2FIron-man-jarvis-gif-867054553&psig=AOvVaw1QXnyaiei7197r6E4eYgak&ust=1681396833304000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD1lLvJpP4CFQAAAAAdAAAAABAK" alt="">
 
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 

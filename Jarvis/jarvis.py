@@ -85,8 +85,8 @@ if __name__ == "__main__":
             date()
 
         elif "who are you" in query:
-            speak("I'm JARVIS created by Mr. Kishan and I'm a desktop voice assistant.")
-            print("I'm JARVIS created by Mr. Kishan and I'm a desktop voice assistant.")
+            speak("I'm JARVIS created by Mr. Pranjal and I'm a desktop voice assistant.")
+            print("I'm JARVIS created by Mr. Pranjal and I'm a desktop voice assistant.")
 
         elif "how are you" in query:
             speak("I'm fine sir, What about you?")
